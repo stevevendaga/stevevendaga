@@ -14,6 +14,8 @@ Experienced full-stack developer with a focus on artificial intelligence, enterp
 - Large Language Model (LLM) engineering and deployment
 - Retrieval-Augmented Generation (RAG) systems
 - LangChain framework and integration patterns
+- Agentic AI
+- Agents Workflows
 - AI-powered assistant development
 
 **Backend Development**
