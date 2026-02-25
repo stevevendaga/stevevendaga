@@ -1,6 +1,6 @@
 # Ukor Mvendaga
 
-**Full-Stack Developer | AI Engineering | Backend Architecture**
+**AI/ML Engineer | Senior Full-Stack Developer**
 
 ---
 
