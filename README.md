@@ -1,4 +1,4 @@
-# Ukor Mvendaga
+# Mvendaga Ukor
 
 **AI/ML Engineer | Senior Full-Stack Developer**
 
