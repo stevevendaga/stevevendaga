@@ -35,11 +35,11 @@ Experienced full-stack developer with a focus on artificial intelligence, enterp
 
 | Category | Technologies |
 |----------|---------------|
-| **Languages** | Python, PHP, JavaScript, TypeScript, C++, Dart |
-| **Frameworks** | Laravel, React, Next.js, FastAPI, LangChain, Flutter |
+| **Languages** | Python, PHP, JavaScript, TypeScript |
+| **Frameworks** | Laravel, React, Next.js, FastAPI, LangChain |
 | **Data Science** | Jupyter Notebook, ML tools, Data processing |
 | **Architecture** | RESTful APIs, Microservices, System Design |
-| **Databases** | Relational databases, Data management, Vector Databases (Pinecone, ChromaDB) |
+| **Databases** | Relational databases, Data management, Vector Databases (Superbase, Pinecone, ChromaDB) |
 
 ## Featured Projects
 
