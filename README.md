@@ -1,6 +1,6 @@
 # Mvendaga Ukor
 
-**AI/ML Engineer | Senior Full-Stack Developer**
+**AI Engineer | Senior Full-Stack Developer**
 
 ---
 
@@ -45,9 +45,6 @@ Experienced full-stack developer with a focus on artificial intelligence, enterp
 
 ### 🤖 [LLM Engineering](https://github.com/stevevendaga/llm-engineering)
 Comprehensive exploration of large language model applications, including RAG implementations, semantic search, and AI assistant architecture. Advanced techniques for integrating LLMs into production systems.
-
-### 🔌 [Laravel Backend API for React CRUD](https://github.com/stevevendaga/laravel-backend-api-for-react-crud)
-Production-ready backend API built with Laravel for comprehensive CRUD operations. Designed specifically for seamless integration with React applications, featuring robust data handling and API optimization.
 
 ### 📊 [Laravel Treatment Data Management](https://github.com/stevevendaga/laravel-treatment-data)
 Enterprise-grade data management system built with Laravel, focused on handling complex treatment datasets and business logic workflows.
