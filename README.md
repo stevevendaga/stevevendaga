@@ -35,22 +35,16 @@ Experienced full-stack developer with a focus on artificial intelligence, enterp
 
 | Category | Technologies |
 |----------|---------------|
-| **Languages** | Python, PHP, JavaScript, TypeScript, C++, Dart |
-| **Frameworks** | Laravel, React, Next.js, FastAPI, LangChain, Flutter |
+| **Languages** | Python, PHP, JavaScript, TypeScript |
+| **Frameworks** | Laravel, React, Next.js, FastAPI, LangChain |
 | **Data Science** | Jupyter Notebook, ML tools, Data processing |
 | **Architecture** | RESTful APIs, Microservices, System Design |
-| **Databases** | Relational databases, Data management, Vector Databases (Pinecone, ChromaDB) |
+| **Databases** | Relational databases, Data management, Vector Databases (Superbase, Pinecone, ChromaDB) |
 
 ## Featured Projects
 
 ### 🤖 [LLM Engineering](https://github.com/stevevendaga/llm-engineering)
 Comprehensive exploration of large language model applications, including RAG implementations, semantic search, and AI assistant architecture. Advanced techniques for integrating LLMs into production systems.
-
-### 🔌 [Laravel Backend API for React CRUD](https://github.com/stevevendaga/laravel-backend-api-for-react-crud)
-Production-ready backend API built with Laravel for comprehensive CRUD operations. Designed specifically for seamless integration with React applications, featuring robust data handling and API optimization.
-
-### 📊 [Laravel Treatment Data Management](https://github.com/stevevendaga/laravel-treatment-data)
-Enterprise-grade data management system built with Laravel, focused on handling complex treatment datasets and business logic workflows.
 
 ### 🧠 [CoolGirls AI Assistant](https://github.com/stevevendaga/coolgirls-ai)
 An innovative assistant platform using Next.js and FastAPI, providing personalized assistance and information on sexual and reproductive health using an advanced RAG system and safety filters.
