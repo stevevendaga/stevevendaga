@@ -35,25 +35,36 @@ Experienced full-stack developer with a focus on artificial intelligence, enterp
 
 | Category | Technologies |
 |----------|---------------|
-| **Languages** | Python, PHP, JavaScript, TypeScript |
-| **Frameworks** | Laravel, React, LangChain |
+| **Languages** | Python, PHP, JavaScript, TypeScript, C++, Dart |
+| **Frameworks** | Laravel, React, Next.js, FastAPI, LangChain, Flutter |
 | **Data Science** | Jupyter Notebook, ML tools, Data processing |
 | **Architecture** | RESTful APIs, Microservices, System Design |
-| **Databases** | Relational databases, Data management |
+| **Databases** | Relational databases, Data management, Vector Databases (Pinecone, ChromaDB) |
 
 ## Featured Projects
 
-### 🤖 LLM Engineering
+### 🤖 [LLM Engineering](https://github.com/stevevendaga/llm-engineering)
 Comprehensive exploration of large language model applications, including RAG implementations, semantic search, and AI assistant architecture. Advanced techniques for integrating LLMs into production systems.
 
-### 🔌 Laravel Backend API for React CRUD
+### 🔌 [Laravel Backend API for React CRUD](https://github.com/stevevendaga/laravel-backend-api-for-react-crud)
 Production-ready backend API built with Laravel for comprehensive CRUD operations. Designed specifically for seamless integration with React applications, featuring robust data handling and API optimization.
 
-### 📊 Laravel Treatment Data Management
+### 📊 [Laravel Treatment Data Management](https://github.com/stevevendaga/laravel-treatment-data)
 Enterprise-grade data management system built with Laravel, focused on handling complex treatment datasets and business logic workflows.
 
-### 🧠 AI Solutions
-Development of AI-powered applications and intelligent systems leveraging cutting-edge machine learning and natural language processing technologies.
+### 🧠 [CoolGirls AI Assistant](https://github.com/stevevendaga/coolgirls-ai)
+An innovative assistant platform using Next.js and FastAPI, providing personalized assistance and information on sexual and reproductive health using an advanced RAG system and safety filters.
+
+### 📚 [Ask Our Docs RAG Assistant](https://github.com/stevevendaga/ask-our-docs-rag-assistant)
+A Retrieval-Augmented Generation (RAG) powered Q&A bot that helps engineers find information within technical documentation by answering questions based only on provided documents.
+
+### ⚙️ Automation & AI Agents
+A collection of impactful workflow automation and agentic solutions:
+- **[n8n-workflow-rag-chatbot-from-pinecone](https://github.com/stevevendaga/n8n-workflow-rag-chatbot-from-pinecone)**
+- **[n8n-Email-Classification-and-Auto-Reply](https://github.com/stevevendaga/n8n-Email-Classification-and-Auto-Reply)**
+- **[mcp-server-and-mcp-host-in-n8n](https://github.com/stevevendaga/mcp-server-and-mcp-host-in-n8n)**
+- **[Big-Telegram-Agent-that-can-talk](https://github.com/stevevendaga/Big-Telegram-Agent-that-can-talk)**
+- **[mcp-for-claude-desktop](https://github.com/stevevendaga/mcp-for-claude-desktop)**
 
 ## Professional Interests
 
