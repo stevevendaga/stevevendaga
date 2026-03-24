@@ -1,6 +1,6 @@
 # Mvendaga Ukor
 
-**AI Engineer | Senior Full-Stack Developer**
+**AI/ML Engineer | Senior Full-Stack Developer**
 
 ---
 
@@ -35,16 +35,19 @@ Experienced full-stack developer with a focus on artificial intelligence, enterp
 
 | Category | Technologies |
 |----------|---------------|
-| **Languages** | Python, PHP, JavaScript, TypeScript |
-| **Frameworks** | Laravel, React, Next.js, FastAPI, LangChain |
+| **Languages** | Python, PHP, JavaScript, TypeScript, C++, Dart |
+| **Frameworks** | Laravel, React, Next.js, FastAPI, LangChain, Flutter |
 | **Data Science** | Jupyter Notebook, ML tools, Data processing |
 | **Architecture** | RESTful APIs, Microservices, System Design |
-| **Databases** | Relational databases, Data management, Vector Databases (Superbase, Pinecone, ChromaDB) |
+| **Databases** | Relational databases, Data management, Vector Databases (Pinecone, ChromaDB) |
 
 ## Featured Projects
 
 ### 🤖 [LLM Engineering](https://github.com/stevevendaga/llm-engineering)
 Comprehensive exploration of large language model applications, including RAG implementations, semantic search, and AI assistant architecture. Advanced techniques for integrating LLMs into production systems.
+
+### 🔌 [Laravel Backend API for React CRUD](https://github.com/stevevendaga/laravel-backend-api-for-react-crud)
+Production-ready backend API built with Laravel for comprehensive CRUD operations. Designed specifically for seamless integration with React applications, featuring robust data handling and API optimization.
 
 ### 📊 [Laravel Treatment Data Management](https://github.com/stevevendaga/laravel-treatment-data)
 Enterprise-grade data management system built with Laravel, focused on handling complex treatment datasets and business logic workflows.
@@ -57,6 +60,7 @@ A Retrieval-Augmented Generation (RAG) powered Q&A bot that helps engineers find
 
 ### ⚙️ Automation & AI Agents
 A collection of impactful workflow automation and agentic solutions:
+- **[elevenLabs-n8n-voice-agent-workflow](https://github.com/stevevendaga/elevenLabs-n8n-voice-agent-workflow)**
 - **[n8n-workflow-rag-chatbot-from-pinecone](https://github.com/stevevendaga/n8n-workflow-rag-chatbot-from-pinecone)**
 - **[n8n-Email-Classification-and-Auto-Reply](https://github.com/stevevendaga/n8n-Email-Classification-and-Auto-Reply)**
 - **[mcp-server-and-mcp-host-in-n8n](https://github.com/stevevendaga/mcp-server-and-mcp-host-in-n8n)**
