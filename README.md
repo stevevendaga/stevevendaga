@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-Experienced full-stack developer with a focus on artificial intelligence, enterprise backend systems, and scalable web applications. Proficient in designing and implementing robust APIs, leveraging large language models for intelligent applications, and building comprehensive full-stack solutions that bridge modern frontend frameworks with powerful backend systems.
+Senior Software Engineer with 12+ years of experience building scalable web applications, backend services, APIs, and enterprise systems across healthcare, education, and enterprise environments. Strong experience in system architecture, databases, CI/CD, Docker, and AI-enabled solutions, with leadership in cross-functional delivery and end-to-end implementation.
 
 ## Core Expertise
 
